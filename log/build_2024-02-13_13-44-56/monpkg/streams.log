@@ -1,0 +1,45 @@
+[1.899s] Invoking command in '/home/alexandre/ros2_ws/test/src/monpkg': PYTHONPATH=/home/alexandre/ros2_ws/test/build/monpkg/prefix_override:/home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/monpkg build --build-base /home/alexandre/ros2_ws/test/build/monpkg/build install --record /home/alexandre/ros2_ws/test/build/monpkg/install.log --single-version-externally-managed
+[2.381s] running egg_info
+[2.381s] creating ../../build/monpkg/monpkg.egg-info
+[2.382s] writing ../../build/monpkg/monpkg.egg-info/PKG-INFO
+[2.382s] writing dependency_links to ../../build/monpkg/monpkg.egg-info/dependency_links.txt
+[2.382s] writing entry points to ../../build/monpkg/monpkg.egg-info/entry_points.txt
+[2.383s] writing requirements to ../../build/monpkg/monpkg.egg-info/requires.txt
+[2.383s] writing top-level names to ../../build/monpkg/monpkg.egg-info/top_level.txt
+[2.383s] writing manifest file '../../build/monpkg/monpkg.egg-info/SOURCES.txt'
+[2.386s] reading manifest file '../../build/monpkg/monpkg.egg-info/SOURCES.txt'
+[2.386s] adding license file 'LICENSE'
+[2.387s] writing manifest file '../../build/monpkg/monpkg.egg-info/SOURCES.txt'
+[2.387s] running build
+[2.387s] running build_py
+[2.388s] creating /home/alexandre/ros2_ws/test/build/monpkg/build
+[2.388s] creating /home/alexandre/ros2_ws/test/build/monpkg/build/lib
+[2.388s] creating /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg
+[2.388s] copying monpkg/__init__.py -> /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg
+[2.388s] copying monpkg/publisher_fc.py -> /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg
+[2.389s] copying monpkg/my_node.py -> /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg
+[2.389s] copying monpkg/subscriber_fc.py -> /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg
+[2.389s] running install
+[2.389s] running install_lib
+[2.391s] creating /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg
+[2.391s] copying /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg/__init__.py -> /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg
+[2.391s] copying /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg/publisher_fc.py -> /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg
+[2.392s] copying /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg/my_node.py -> /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg
+[2.392s] copying /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg/subscriber_fc.py -> /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg
+[2.393s] byte-compiling /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg/__init__.py to __init__.cpython-310.pyc
+[2.393s] byte-compiling /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg/publisher_fc.py to publisher_fc.cpython-310.pyc
+[2.394s] byte-compiling /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg/my_node.py to my_node.cpython-310.pyc
+[2.395s] byte-compiling /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg/subscriber_fc.py to subscriber_fc.cpython-310.pyc
+[2.396s] running install_data
+[2.398s] creating /home/alexandre/ros2_ws/test/install/monpkg/share/ament_index
+[2.399s] creating /home/alexandre/ros2_ws/test/install/monpkg/share/ament_index/resource_index
+[2.399s] creating /home/alexandre/ros2_ws/test/install/monpkg/share/ament_index/resource_index/packages
+[2.400s] copying resource/monpkg -> /home/alexandre/ros2_ws/test/install/monpkg/share/ament_index/resource_index/packages
+[2.400s] copying package.xml -> /home/alexandre/ros2_ws/test/install/monpkg/share/monpkg
+[2.400s] running install_egg_info
+[2.403s] Copying ../../build/monpkg/monpkg.egg-info to /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg-0.0.0-py3.10.egg-info
+[2.406s] running install_scripts
+[2.448s] Installing listener script to /home/alexandre/ros2_ws/test/install/monpkg/lib/monpkg
+[2.448s] Installing talker script to /home/alexandre/ros2_ws/test/install/monpkg/lib/monpkg
+[2.448s] writing list of installed files to '/home/alexandre/ros2_ws/test/build/monpkg/install.log'
+[2.528s] Invoked command in '/home/alexandre/ros2_ws/test/src/monpkg' returned '0': PYTHONPATH=/home/alexandre/ros2_ws/test/build/monpkg/prefix_override:/home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/monpkg build --build-base /home/alexandre/ros2_ws/test/build/monpkg/build install --record /home/alexandre/ros2_ws/test/build/monpkg/install.log --single-version-externally-managed

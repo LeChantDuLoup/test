@@ -1,0 +1,4 @@
+[console_scripts]
+listener = monpkg.subscriber_fc:main
+talker = monpkg.publisher_fc:main
+

@@ -1,0 +1,43 @@
+running egg_info
+creating ../../build/monpkg/monpkg.egg-info
+writing ../../build/monpkg/monpkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/monpkg/monpkg.egg-info/dependency_links.txt
+writing entry points to ../../build/monpkg/monpkg.egg-info/entry_points.txt
+writing requirements to ../../build/monpkg/monpkg.egg-info/requires.txt
+writing top-level names to ../../build/monpkg/monpkg.egg-info/top_level.txt
+writing manifest file '../../build/monpkg/monpkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/monpkg/monpkg.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/monpkg/monpkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/alexandre/ros2_ws/test/build/monpkg/build
+creating /home/alexandre/ros2_ws/test/build/monpkg/build/lib
+creating /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg
+copying monpkg/__init__.py -> /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg
+copying monpkg/publisher_fc.py -> /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg
+copying monpkg/my_node.py -> /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg
+copying monpkg/subscriber_fc.py -> /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg
+running install
+running install_lib
+creating /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg
+copying /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg/__init__.py -> /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg
+copying /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg/publisher_fc.py -> /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg
+copying /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg/my_node.py -> /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg
+copying /home/alexandre/ros2_ws/test/build/monpkg/build/lib/monpkg/subscriber_fc.py -> /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg
+byte-compiling /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg/publisher_fc.py to publisher_fc.cpython-310.pyc
+byte-compiling /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg/my_node.py to my_node.cpython-310.pyc
+byte-compiling /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg/subscriber_fc.py to subscriber_fc.cpython-310.pyc
+running install_data
+creating /home/alexandre/ros2_ws/test/install/monpkg/share/ament_index
+creating /home/alexandre/ros2_ws/test/install/monpkg/share/ament_index/resource_index
+creating /home/alexandre/ros2_ws/test/install/monpkg/share/ament_index/resource_index/packages
+copying resource/monpkg -> /home/alexandre/ros2_ws/test/install/monpkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/alexandre/ros2_ws/test/install/monpkg/share/monpkg
+running install_egg_info
+Copying ../../build/monpkg/monpkg.egg-info to /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener script to /home/alexandre/ros2_ws/test/install/monpkg/lib/monpkg
+Installing talker script to /home/alexandre/ros2_ws/test/install/monpkg/lib/monpkg
+writing list of installed files to '/home/alexandre/ros2_ws/test/build/monpkg/install.log'

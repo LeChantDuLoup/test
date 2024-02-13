@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/monpkg/monpkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/monpkg/monpkg.egg-info/dependency_links.txt
+writing entry points to ../../build/monpkg/monpkg.egg-info/entry_points.txt
+writing requirements to ../../build/monpkg/monpkg.egg-info/requires.txt
+writing top-level names to ../../build/monpkg/monpkg.egg-info/top_level.txt
+reading manifest file '../../build/monpkg/monpkg.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/monpkg/monpkg.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/monpkg/monpkg.egg-info to /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener script to /home/alexandre/ros2_ws/test/install/monpkg/lib/monpkg
+Installing talker script to /home/alexandre/ros2_ws/test/install/monpkg/lib/monpkg
+writing list of installed files to '/home/alexandre/ros2_ws/test/build/monpkg/install.log'

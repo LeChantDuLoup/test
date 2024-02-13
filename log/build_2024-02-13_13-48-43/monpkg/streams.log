@@ -1,0 +1,23 @@
+[1.291s] Invoking command in '/home/alexandre/ros2_ws/test/src/monpkg': PYTHONPATH=/home/alexandre/ros2_ws/test/build/monpkg/prefix_override:/home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/monpkg build --build-base /home/alexandre/ros2_ws/test/build/monpkg/build install --record /home/alexandre/ros2_ws/test/build/monpkg/install.log --single-version-externally-managed
+[1.648s] running egg_info
+[1.649s] writing ../../build/monpkg/monpkg.egg-info/PKG-INFO
+[1.650s] writing dependency_links to ../../build/monpkg/monpkg.egg-info/dependency_links.txt
+[1.650s] writing entry points to ../../build/monpkg/monpkg.egg-info/entry_points.txt
+[1.650s] writing requirements to ../../build/monpkg/monpkg.egg-info/requires.txt
+[1.651s] writing top-level names to ../../build/monpkg/monpkg.egg-info/top_level.txt
+[1.653s] reading manifest file '../../build/monpkg/monpkg.egg-info/SOURCES.txt'
+[1.653s] adding license file 'LICENSE'
+[1.655s] writing manifest file '../../build/monpkg/monpkg.egg-info/SOURCES.txt'
+[1.655s] running build
+[1.655s] running build_py
+[1.657s] running install
+[1.658s] running install_lib
+[1.661s] running install_data
+[1.662s] running install_egg_info
+[1.664s] removing '/home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.665s] Copying ../../build/monpkg/monpkg.egg-info to /home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages/monpkg-0.0.0-py3.10.egg-info
+[1.666s] running install_scripts
+[1.693s] Installing listener script to /home/alexandre/ros2_ws/test/install/monpkg/lib/monpkg
+[1.693s] Installing talker script to /home/alexandre/ros2_ws/test/install/monpkg/lib/monpkg
+[1.694s] writing list of installed files to '/home/alexandre/ros2_ws/test/build/monpkg/install.log'
+[1.738s] Invoked command in '/home/alexandre/ros2_ws/test/src/monpkg' returned '0': PYTHONPATH=/home/alexandre/ros2_ws/test/build/monpkg/prefix_override:/home/alexandre/ros2_ws/test/install/monpkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/monpkg build --build-base /home/alexandre/ros2_ws/test/build/monpkg/build install --record /home/alexandre/ros2_ws/test/build/monpkg/install.log --single-version-externally-managed
